@@ -1,0 +1,16 @@
+npm i @citizenfx/client@^1.0.3220-1
+npm i @citizenfx/server@^1.0.3220-1
+npm i @types/node@^14.14.9
+npm i copy-webpack-plugin@^5.1.1
+npm i remove-files-webpack-plugin@^1.5.0
+npm i eslint@^7.14.0
+npm i eslint-config-airbnb-typescript-prettier@^4.1.0
+npm i eslint-config-prettier@^6.15.0
+npm i eslint-plugin-prettier@^3.1.4
+npm i javascript-obfuscator@^2.9.4
+npm i prettier@^1.19.1
+npm i tsconfig-paths-webpack-plugin@^3.3.0
+npm i ts-loader@^6.2.2
+npm i typescript@^3.8.3
+npm i webpack@^4.42.1
+npm i webpack-cli@^3.3.11
